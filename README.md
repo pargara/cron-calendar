@@ -5,3 +5,4 @@ To-do
 
 - [ ] Icon App
 - [ ] Start App on Starup
+- [ ] Send Notifications
